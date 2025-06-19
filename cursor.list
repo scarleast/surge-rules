@@ -1,0 +1,21 @@
+# NAME: Cursor
+# AUTHOR: scarleast
+# REPO: https://github.com/scarleast/surge-rules.git
+# UPDATED: 2025-06-19 09:20:00
+# DOMAIN: 11
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 0
+# IP-ASN: 0
+# IP-CIDR: 0
+# TOTAL: 11
+DOMAIN,api2.cursor.sh
+DOMAIN,api3.cursor.sh
+DOMAIN,repo42.cursor.sh
+DOMAIN,api4.cursor.sh
+DOMAIN,us-asia.gcpp.cursor.sh
+DOMAIN,us-eu.gcpp.cursor.sh
+DOMAIN,us-only.gcpp.cursor.sh
+DOMAIN,marketplace.cursorapi.com
+DOMAIN,cursor-cdn.com
+DOMAIN,downloads.cursor.com
+DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com
